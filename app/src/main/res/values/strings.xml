@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CameraExample</string>
+    <string name="enhance">Enhance</string>
+    <string name="deblur">Deblur</string>
+    <string name="dehaze">Dehaze</string>
+    <string name="fix_light">Fix Light</string>
+</resources>
